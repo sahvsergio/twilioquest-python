@@ -1,0 +1,8 @@
+Executing script: /home/sergioherrera/Documents/projects/python_projects/twilioquest/citizen.py
+Script arguments: 
+Output:
+  File "/home/sergioherrera/Documents/projects/python_projects/twilioquest/citizen.py", line 15
+    return f'{self.first_name} {self.last_name}}'
+                                                 ^
+SyntaxError: f-string: single '}' is not allowed
+

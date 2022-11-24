@@ -1,0 +1,5 @@
+Executing script: /home/sergioherrera/Documents/projects/python_projects/twilioquest/list_iteration.py
+Script arguments: Duke,Ruby,Dottie,Snake,Joe
+Output:
+['Duke', 'Ruby', 'Dottie']
+
